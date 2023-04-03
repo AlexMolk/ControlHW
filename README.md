@@ -3,9 +3,7 @@
 ![Контрольное дз ГБ](https://user-images.githubusercontent.com/124172672/229623552-f30b7cfd-d351-476e-86a4-ae978daa939f.png)
 
 string[] array1 = new string[5] {"1234", "1567", "hello", "world", "-2"};
-
 string[] array2 = new string[array1.Length];
-
 void SecondArrayWithIF(string[] array1, string[] array2)
 {
     int count = 0;
